@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DraggableDialog" parent="@style/Theme.AppCompat.Dialog">
+
+        <item name="android:windowBackground">@android:color/transparent</item><!--背景透明-->
+
+
+    </style>
+
+</resources>
